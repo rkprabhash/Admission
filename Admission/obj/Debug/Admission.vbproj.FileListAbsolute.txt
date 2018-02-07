@@ -1,0 +1,15 @@
+D:\Proamming\VB.NET\Admission\Admission\bin\Debug\Admission.exe.config
+D:\Proamming\VB.NET\Admission\Admission\bin\Debug\Admission.exe
+D:\Proamming\VB.NET\Admission\Admission\bin\Debug\Admission.pdb
+D:\Proamming\VB.NET\Admission\Admission\bin\Debug\Admission.xml
+D:\Proamming\VB.NET\Admission\Admission\obj\Debug\Admission.vbprojResolveAssemblyReference.cache
+D:\Proamming\VB.NET\Admission\Admission\obj\Debug\Admission.Resources.resources
+D:\Proamming\VB.NET\Admission\Admission\obj\Debug\Admission.vbproj.GenerateResource.Cache
+D:\Proamming\VB.NET\Admission\Admission\obj\Debug\Admission.exe
+D:\Proamming\VB.NET\Admission\Admission\obj\Debug\Admission.xml
+D:\Proamming\VB.NET\Admission\Admission\obj\Debug\Admission.pdb
+D:\Proamming\VB.NET\Admission\Admission\obj\Debug\Admission.RegistrationForm.resources
+D:\Proamming\VB.NET\Admission\Admission\obj\Debug\Admission.Form1.resources
+D:\Proamming\VB.NET\Admission\Admission\obj\Debug\Admission.StudentDetailsForm.resources
+D:\Proamming\VB.NET\Admission\Admission\bin\Debug\StudentDB.mdb
+D:\Proamming\VB.NET\Admission\Admission\obj\Debug\Admission.Form2.resources
